@@ -1,4 +1,4 @@
-# <Your repository name here>
+# PI-Vision-Ad-Hoc-Extension
 
 ## About
 
@@ -8,7 +8,7 @@ When viewing an imported PI ProcessBook® display, it is now possible to multi-s
 
 ![Extension Demo](/help/screenDemo.gif)
 
-This extension is targeted at PI Vision™ 2017 R2 (3.3.x) and earlier. PI Vision™ 2019 will have similar funcionality built in.
+This extension is targeted at PI Vision™ 2017 R2 (3.3.x) and earlier. PI Vision™ 2019 will have similar functionality built in.
 
 This extension is still in beta.
 
