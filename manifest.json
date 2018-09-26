@@ -1,6 +1,7 @@
 {
-  "name": "PI Vision™ Ad-Hoc Selector",
-  "description": "Allows multi-select ad-hoc trends for imported PI ProcessBook® displays.  (Extension not created by OSIsoft®)",
+  "name": "Ad-Hoc Selector for PI Vision™",
+  "short_name": "AdHoc Select",
+  "description": "Allows multiselect ad-hoc trends for imported PI ProcessBook® displays.  (Extension not created by OSIsoft®)",
   "version": "0.2",
   "manifest_version": 2,
   "background": {
